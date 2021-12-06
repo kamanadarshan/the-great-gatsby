@@ -1,6 +1,6 @@
-//import * as React from 'react'
+// import * as React from 'react'
 
-// Rendering the <Greeting> component
+// ////Rendering the <Greeting> component
 // const SayHello = () => {
 //   return (
 //     <div>
@@ -13,5 +13,5 @@
 
 
 
-// Step 3: Export your component
-//export default Say-HelloPage
+// //Step 3: Export your component
+// export default SayHelloPage
